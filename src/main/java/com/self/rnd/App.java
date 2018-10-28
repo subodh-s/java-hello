@@ -12,7 +12,7 @@ public class App
         String name = System.console().readLine();
 
         if(name.toUpperCase().equals("SUBODH")){
-            System.out.println("Welcome buddy !.. What can I do for you ?");
+            System.out.println("Welcome friend !.. What can I do for you ?");
         }
         else{
             System.out.println("Sorry..dont recognize you. Application aborting...");
